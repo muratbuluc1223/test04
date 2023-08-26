@@ -8,5 +8,7 @@ public class test4 {
         System.out.println("test2");
         //versiyon3
         System.out.println("test03");
+        //version4
+        System.out.println("test04");
     }
 }
